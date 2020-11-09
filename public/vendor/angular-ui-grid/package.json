@@ -4,7 +4,7 @@
   "main": "index.js",
   "ignore": [],
   "dependencies": {
-    "angular": ">=1.4.0 1.5.x"
+    "angular": ">=1.8.1"
   },
   "repository": {
     "type": "git",
